@@ -1,6 +1,6 @@
 # Chuggers
 
-An simple Cookie Clicker style game with steam engine themed aesthetics directed towards younger audiences. Made with Android Studio.
+A simple Cookie Clicker style game with steam engine themed aesthetics directed towards younger audiences. Made with Android Studio.
 
 ## Getting Started
 
